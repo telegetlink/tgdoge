@@ -1,1 +1,1 @@
-# teledoge
+# tgdoge
